@@ -1,2 +1,3 @@
 git is interesting subject
 hello world
+stranger 18
